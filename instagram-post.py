@@ -4,15 +4,20 @@ from instagrapi import Client
 USERNAME = "maan_na_yaar"
 PASSWORD = 'B.M.W. M-6'
 
-CAPTION = """The lobster represents resilience. 
-Dropped in boiling water, it adapts instantly - changing color in seconds.
-We like to think we're stronger than creatures without a spine.
-But when life throws us into hot water...
-Do we adapt? Or do we break?
+CAPTION = """Every version of you is dying.
+The child you were is gone.
+The person you are now...
+Will also be gone.
 
-🦞
+You are not a static being.
+You are a river, not a stone.
 
-#lobster #resilience #adaptation #motivation #philosophy #life #growth #mindset #strength #wisdom"""
+Character development isn't becoming someone new.
+It's letting go of who you were.
+
+🕸️
+
+#characterdevelopment #growth #emotions #becoming #selfimprovement #innerwork #transformation #personalgrowth #spiderman #miless morales"""
 
 client = Client()
 client.login(USERNAME, PASSWORD)
