@@ -4,13 +4,15 @@ from instagrapi import Client
 USERNAME = "maan_na_yaar"
 PASSWORD = 'B.M.W. M-6'
 
-CAPTION = """We see what we believe, not what is. 👁️
+CAPTION = """The lobster represents resilience. 
+Dropped in boiling water, it adapts instantly - changing color in seconds.
+We like to think we're stronger than creatures without a spine.
+But when life throws us into hot water...
+Do we adapt? Or do we break?
 
-Shatter the mirrors of illusion. Question everything. Break the chains of inherited fear.
+🦞
 
-What you perceive is not the truth — it's your limitation.
-
-#perception #awareness #philosophy #truth #consciousness #growth #selfdiscovery #mysticism #wisdom"""
+#lobster #resilience #adaptation #motivation #philosophy #life #growth #mindset #strength #wisdom"""
 
 client = Client()
 client.login(USERNAME, PASSWORD)
